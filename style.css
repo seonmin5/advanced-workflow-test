@@ -240,6 +240,7 @@ body {
         top: calc(0 * var(--offset));
     }
 
+
     75.00% {
         left: calc(2 * var(--offset));
         top: calc(1 * var(--offset));
